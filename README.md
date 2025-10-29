@@ -4,6 +4,8 @@ UISP rack deployment &amp; device provisioning helper (beta)
 git clone https://github.com/DrVenkman123/ISProvisioner.git
 
 SUPPORT DEVELOPMENT: cash.app/$EricElston123 
+[![CashApp](https://img.shields.io/badge/Support%20via-CashApp-00C244?logo=cashapp&logoColor=white)](https://cash.app/$EricElston123)
+
 
 Enterprise-grade web application for ISP technicians to remotely configure Ubiquiti network devices via SSH.
 
