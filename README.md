@@ -11,7 +11,16 @@ git clone https://github.com/DrVenkman123/ISProvisioner.git
 
 SUPPORT DEVELOPMENT: cash.app/$EricElston123 
 [![CashApp](https://img.shields.io/badge/Support%20via-CashApp-00C244?logo=cashapp&logoColor=white)](https://cash.app/$EricElston123)
-
+🖥️ 
+Minimum System / VM Specs                    
+Recommended	                                        Minimum
+CPU	2 cores (x86_64 or ARM64)	                    1 core
+RAM	2 GB	                                        1 GB
+Disk Space	2–4 GB free	                           1 GB minimum
+Network	Reliable LAN/WAN with access to UISP device IPs	Must be able to reach target devices via HTTPS/SSH
+OS	Ubuntu Server 22.04 LTS or newer	Any Debian-based Linux (20.04+)
+Architecture	AMD64 / ARM64	                    Works on x86, ARMv8
+Privileges	sudo access (for install scripts & PM2/systemd setup)	—
 
 Enterprise-grade web application for ISP technicians to remotely configure Ubiquiti network devices via SSH.
 
