@@ -5,6 +5,8 @@
 # ISProvisioner
 UISP rack deployment &amp; device provisioning helper (beta)
 
+This is a very rough beta of ISProvisioner. Future updates will fix bugs and enhance features. Feel free to write me an email with any requests. info@wispernetinc.com
+
 git clone https://github.com/DrVenkman123/ISProvisioner.git
 
 SUPPORT DEVELOPMENT: cash.app/$EricElston123 
